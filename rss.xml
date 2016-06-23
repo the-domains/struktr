@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[struktr]]></title>
         <description><![CDATA[struktr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://struktr.space/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 04:13:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 23 Jun 2016 04:41:55 GMT</lastBuildDate>
+        <atom:link href="http://struktr.space/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69c700c6-47b1-4c7d-aba0-6b174e3ed6c9.jpg">]]></description>
+            <link>http://struktr.space/639cd925-f6e9-43e7-8f7b-58276df3c5f8/index.html</link>
+            <guid isPermaLink="false">639cd925-f6e9-43e7-8f7b-58276df3c5f8</guid>
+            <pubDate>Thu, 23 Jun 2016 04:41:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39494cd-398c-4815-8b81-82d2d326c162.jpg">]]></description>
-            <link>undefinedthis-is-10-steps-away-from-where-goztepe-subway-station-exi/index.html</link>
+            <link>http://struktr.space/this-is-10-steps-away-from-where-goztepe-subway-station-exi/index.html</link>
             <guid isPermaLink="false">a0ccaeb0-4a31-4006-b4a9-2f74dd75c546</guid>
             <pubDate>Thu, 23 Jun 2016 04:13:25 GMT</pubDate>
         </item>
